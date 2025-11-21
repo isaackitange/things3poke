@@ -1,0 +1,9 @@
+# No external dependencies needed!
+# This server uses only Python standard library:
+# - json
+# - smtplib
+# - email
+# - os
+# - sys
+
+# Python 3.7+ required
